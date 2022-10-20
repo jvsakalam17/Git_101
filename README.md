@@ -12,7 +12,10 @@ You can also use image as guide for the user. Lorem ipsum dolor sit amet, consec
 
 * Step 1.
 
-![CS](https://i.redd.it/npy5aorlq4r71.jpg)
+![Christine Samson](https://i.redd.it/npy5aorlq4r71.jpg)
+
+* Step 2.
+![Aj Raval](https://entertainment.inquirer.net/files/2022/07/60D1BEC4-388A-447C-8D2C-8091FDDDC4F5.jpeg)
 
 ## Usage
 In this part you can explain the usage of the project etc. You can also attach screenshot as a guide. 
