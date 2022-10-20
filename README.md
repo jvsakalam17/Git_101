@@ -17,4 +17,8 @@ In this paragraph you can explain the usage of the project etc. You can also att
 4. Push to the branch: git push origin branchName
 5. Submit a pull request.
 
+## Contact
+John Victor C. Fernandez - jvfernandez1417@gmail.com
+Project Link: https://github.com/jvsakalam17/Git_101.git
+
 
