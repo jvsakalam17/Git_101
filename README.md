@@ -18,6 +18,8 @@ You can also use image as guide for the user. Lorem ipsum dolor sit amet, consec
 
 ![Aj Raval](https://entertainment.inquirer.net/files/2022/07/60D1BEC4-388A-447C-8D2C-8091FDDDC4F5.jpeg)
 
+* Step 3.
+
 ## Usage
 In this part you can explain the usage of the project etc. You can also attach screenshot as a guide. 
 
